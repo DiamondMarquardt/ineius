@@ -1,0 +1,35 @@
+{
+  "name": "ineius",
+  "version": "1.0.0",
+  "author": "LavonneParisian",
+  "description": "A Node.js (pure JavaScript) client library for accessing neo4j databases with batch support.",
+  "main": "./lib/Neo4jApi.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DiamondMarquardt/ineius.git"
+  },
+  "dependencies": {
+    "arguer": "0.0.1"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*"
+  },
+  "keywords": [
+    "exercitationem",
+    "non",
+    "api",
+    "molestiae",
+    "database",
+    "asynchronous"
+  ],
+  "analyze": false,
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.8"
+  },
+  "bugs": {
+    "url": "https://github.com/DiamondMarquardt/ineius.git/issues"
+  },
+  "homepage": "https://github.com/DiamondMarquardt/ineius.git"
+}
